@@ -1,0 +1,15 @@
+{
+    "name": "user/vaccine-care",
+    "description": "Child vaccination and growth tracking portal",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sruthika",
+            "email": "sruthikathammadi025@gmail.com"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^7.0"
+    }
+}
